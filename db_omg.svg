@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 106 106" version="1">
+  <ellipse cx="53" cy="53" rx="21" ry="21" fill="#fc0"/>
+  <path d="M61 59l-6-2-5 5v-6l-5-3 5-3 1-5 5 4h6l-3 5z" fill="red"/>
+  <text style="line-height:4.25;-inkscape-font-specification:'MV Boli'" x="40" y="59" transform="scale(.87433 1.14373)" font-weight="400" font-size="5" letter-spacing="0" word-spacing="0" font-family="MV Boli" stroke-width="0">
+    <tspan x="40" y="59" style="line-height:4.25;-inkscape-font-specification:'MV Boli'" font-size="7">DragonBall M</tspan>
+  </text>
+  <path d="M78 66L53 78 28 66V40l25-12 25 12z" fill="none" stroke="#000"/>
+  <path d="M-21 79l-53-5 5-53 53 5z" transform="matrix(1.11465 -.10921 .10923 1.1145 98 -8)" fill="none" stroke="red" stroke-linejoin="round"/>
+</svg>
